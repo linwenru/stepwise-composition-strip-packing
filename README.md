@@ -1,5 +1,7 @@
 # Replication package: stepwise composition of heuristic components for offline strip packing
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23252641.svg)](https://doi.org/10.5281/zenodo.23252641)
+
 Code and data for a controlled study of batch reinforcement learning (Fitted
 Q Iteration) over classic constructive-heuristic components in
 two-dimensional strip packing, evaluated under family holdout with a
