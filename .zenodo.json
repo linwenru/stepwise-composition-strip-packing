@@ -1,0 +1,29 @@
+{
+  "title": "Code and data for a controlled study of batch reinforcement learning for stepwise composition of strip-packing heuristic components",
+  "description": "Python code and data for stepwise composition of classic best-fit-family components with tree-based Fitted Q Iteration: the configurable constructive engine, FQI/Double-DQN training pipelines, pre-registered control arms, all experiment runners, benchmark instances, per-run raw results (CSV), and the trained per-fold models.",
+  "creators": [
+    {
+      "name": "Lin, Wenru",
+      "affiliation": "University of Science and Technology of China; Minjiang University",
+      "orcid": "0000-0002-4416-2971"
+    },
+    {
+      "name": "Yang, Zhouwang",
+      "affiliation": "University of Science and Technology of China",
+      "orcid": "0000-0002-9454-9146"
+    },
+    {
+      "name": "Liu, Lei",
+      "affiliation": "Minjiang University",
+      "orcid": "0000-0002-6180-1341"
+    }
+  ],
+  "license": "MIT",
+  "keywords": [
+    "strip packing",
+    "reinforcement learning",
+    "fitted Q iteration",
+    "hyper-heuristics",
+    "algorithm portfolios"
+  ]
+}
